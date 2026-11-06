@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Shyleshkanna B 👋</h1>
 
 <p align="center">
-  <b>Java Full Stack Developer</b> · Coimbatore, India<br>
-  I build web applications from the database to the screen.
+  <b>Software Engineer</b> · Coimbatore, India<br>
+  I build web applications and automation bots, from the database to the screen.
 </p>
 
 <p align="center">
@@ -16,21 +16,24 @@
 ## 👨‍💻 About me
 
 - 🎓 B.E. Computer Science and Engineering (2025)
-- 💼 Java Full Stack Developer at **Stackly**, building full-stack web applications
+- 💼 Software Engineer at **Stackly**, building full-stack web applications
+- 🧩 Freelance since 2025: custom web applications and automation bots for clients
 - ⚙️ I work with **Java, Spring Boot, REST APIs, MySQL and React.js**
-- 🌱 Looking for an entry-level Java Full Stack Developer role where I can keep learning and write clean code
+- 🔎 Actively looking for a full-time Software Engineer job
 
 ---
 
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,js,html,css,git,github,postman" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=java,python,spring,nodejs,react,mysql,js,html,css,git,github,postman" alt="Tech stack">
 </p>
 
-**Backend:** Java, Spring Boot, Spring Data JPA, Hibernate, REST APIs, JWT Authentication, JDBC  
-**Frontend:** React.js, JavaScript, HTML5, CSS3  
+**Languages:** Java, Python, JavaScript, SQL  
+**Backend:** Spring Boot, Spring Framework, REST APIs, Node.js  
+**Frontend:** React.js, HTML5, CSS3  
 **Database:** MySQL  
+**Automation:** Instagram, Twitter (X) and Telegram bots, Windows automation  
 **Tools:** Git, GitHub, Postman, IntelliJ IDEA, VS Code
 
 ---
@@ -76,4 +79,28 @@ A console application to manage bank accounts and transactions.
 
 ---
 
-<p align="center">📫 Open to entry-level roles. Reach me at <a href="mailto:cseshylesh@gmail.com">cseshylesh@gmail.com</a></p>
+### 4. 🛍️ CartNova, Online Shopping Application
+Shop online with product browsing, cart and checkout, with a separate admin panel.
+
+- Product catalog with search, category filters and product detail pages
+- Cart, checkout and order history for each user
+- JWT login with role-based access for customer and admin
+- Admin panel to manage products, stock and orders using Spring Boot REST APIs and MySQL
+
+**Tech:** `React.js` `Spring Boot` `Java` `MySQL` `Spring Data JPA` `JWT` `Postman`
+
+---
+
+### 5. 🤖 Automation Bots and Tools
+Bots and tools that automate repetitive work on social media, messaging apps and Windows, so tasks run without manual effort.
+
+- Instagram, Twitter (X) and Telegram bots for posting, messaging and routine tasks
+- General-purpose Windows automation for desktop, file and application tasks
+- Scheduled and rule-based actions that save hours of manual work
+- Custom automation built for clients on request
+
+**Tech:** `Node.js` `JavaScript` `Python` `Windows Automation`
+
+---
+
+<p align="center">📫 Looking for a full-time Software Engineer job. Also available for custom web applications and automation tools. Reach me at <a href="mailto:cseshylesh@gmail.com">cseshylesh@gmail.com</a></p>
