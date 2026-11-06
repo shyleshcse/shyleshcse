@@ -76,13 +76,4 @@ A console application to manage bank accounts and transactions.
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shyleshcse&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyleshcse&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</p>
-
----
-
 <p align="center">📫 Open to entry-level roles. Reach me at <a href="mailto:cseshylesh@gmail.com">cseshylesh@gmail.com</a></p>
