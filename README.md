@@ -89,6 +89,8 @@ Shop online with product browsing, cart and checkout, with a separate admin pane
 
 **Tech:** `React.js` `Spring Boot` `Java` `MySQL` `Spring Data JPA` `JWT` `Postman`
 
+[💻 Source code](https://github.com/shyleshcse/RESUME_Projects/tree/main/CartNova) · [🌐 Live demo](https://cart-nova-online.netlify.app/)
+
 ---
 
 ### 5. 🤖 Automation Bots and Tools
